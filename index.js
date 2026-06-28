@@ -1,6 +1,6 @@
 "use strict";
 function sayHello(name) {
-    return `こんにちは、${name}さん！Web画面に表示されました！`;
+    return `こんにちは、${name}さん！Web画面が変更されました！`;
 }
 const userName = "sada240";
 // --- ここからWeb画面に表示するためのコード ---
